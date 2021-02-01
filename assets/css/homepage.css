@@ -1,0 +1,24 @@
+
+.container{
+    margin-right: auto;
+}
+.profile-small{
+    width: 50px;
+    border-radius: 50%;
+    /* height: 10px; */
+    height: 50px;
+}
+.profile-small-comment{
+    width: 20px;
+    border-radius: 50%;
+    /* height: 10px; */
+    height: 20px;
+}
+.question-pic{
+height: 568px;
+width: 369px;
+}
+.container{
+    align-items: center;
+    width: 100%;
+}
